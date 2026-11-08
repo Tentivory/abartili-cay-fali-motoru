@@ -1,0 +1,3 @@
+# Bu projede dış bağımlılık yoktur.
+# Sadece çay içmeniz yeterlidir.
+# pip install çay  # bu çalışmaz
